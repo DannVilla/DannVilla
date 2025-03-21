@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img decoding="async" src="https://github.com/DannVilla/DannVilla/blob/main/Banner%20LinkedIn.png" width="800"/>
+  <img decoding="async" src="https://github.com/DannVilla/DannVilla/blob/main/Github%20Banner.png" width="800"/>
 </div>
 
 <div align="center">
