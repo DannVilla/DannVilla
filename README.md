@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img decoding="async" src="https://github.com/DannVilla/DannVilla/blob/main/Banner%20LinkedIn.png" width="800"/>
+</div>
+
 <div align="center">
   <h2>¡Hola, soy Daniel! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h2>
 </div>
